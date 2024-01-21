@@ -5,6 +5,10 @@ This project is done through the jonas javascript course. it's easy game that ea
 # 
 https://github.com/Neo7793/use-popcorn/assets/134860589/28ef7706-db71-4849-ad1a-2fb45bbc230e
 
+# You can check it on : 
+
+https://sina-pig-game.netlify.app/
+
 
 # Skills used in this project 
 <div align="left">
